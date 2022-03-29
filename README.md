@@ -1,1 +1,2 @@
-# COVID-19-Vaccination-Center
+- This Program is to create and mangage vaccination system by adding,deleting,assigning people and checking the stocks of vaccinations
+- Software develeopment coursework developed using Java and Javafx
