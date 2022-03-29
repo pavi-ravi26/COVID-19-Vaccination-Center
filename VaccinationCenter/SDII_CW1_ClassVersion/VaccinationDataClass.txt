@@ -1,0 +1,26 @@
+stocklevel -2
+0 0
+1 -1
+2 0
+3 0
+4 2
+5 0
+--------
+4  John Sue 32 colombo 2094174v Pfizer
+0  e e 0 e e e
+0  e e 0 e e e
+0  e e 0 e e e
+0  e e 0 e e e
+0  e e 0 e e e
+0  e e 0 e e e
+0  e e 0 e e e
+0  e e 0 e e e
+0  e e 0 e e e
+--------
+[]
+[]
+[]
+[]
+[Patient@3224f60b]
+[Patient@63e2203c]
+--------
